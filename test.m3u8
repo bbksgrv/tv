@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
+https://webdi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
+https://webdi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
+https://webdi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
+https://webdi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", SKY SPORTS PREMIER LEAGUE
+https://webdi.openhd.lol/ddyx2/premium130/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", SKY SPORTS FOOTBALL
+https://webdi.openhd.lol/ddy5/premium35/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="SPORTS", TEST
+https://webdi.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
