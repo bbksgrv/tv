@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="Sport",FR -- EUROSPORT 2 HD
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/400
+https://webdi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Blue Sport 1 CH
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/blue.sport.1.ch.m3u8
+https://webdi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Pac12 LA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pac.12.la.us.m3u8
+https://webdi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sport",DUBAI SPORT 3 HD
-http://juzu.online:2082/luinnew/H8hQgb7455/237996
+https://webdi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
