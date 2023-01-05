@@ -1,10 +1,9 @@
 #EXTM3U
-
-#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="Sport",FR -- EUROSPORT 2 HD
-https://webdi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Blue Sport 1 CH
-https://webdi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Pac12 LA
-https://webdi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sport",DUBAI SPORT 3 HD
-https://webdi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00411" tvg-chno="1" tvg-name="Information" tvg-logo="https://raw.githubusercontent.com/kens13/EPG/master/info.png" group-title="Information",Information 
+https://raw.githubusercontent.com/kens13/EPG/master/test_pattern_1.mp4
+#EXTINF:-1 tvg-id="" tvg-chno="2" tvg-name="CBS New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/92.png" group-title="Entertainments", CBS New York
+http://xportal:80/live/xdonation/xdonation/45.ts
+#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="NBC New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/965.png" group-title="Entertainments", NBC New York
+http://xportal:80/live/xdonation/xdonation/216.ts
+#EXTINF:-1 tvg-id="" tvg-chno="5" tvg-name="FOX New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3220.png" group-title="Entertainments", FOX New York
+http://xportal:80/live/xdonation/xdonation/365.ts
