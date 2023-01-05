@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="00411" tvg-chno="1" tvg-name="Information" tvg-logo="https://raw.githubusercontent.com/kens13/EPG/master/info.png" group-title="Information",Information 
 https://raw.githubusercontent.com/kens13/EPG/master/test_pattern_1.mp4
 #EXTINF:-1 tvg-id="" tvg-chno="2" tvg-name="CBS New York" tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="Entertainments", CBS New York
-http://xportal:80/live/xdonation/xdonation/45.ts
+http://xportal:80/live/xdonation/xdonation/365.ts
 #EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="NBC New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/965.png" group-title="Entertainments", NBC New York
 http://xportal:80/live/xdonation/xdonation/216.ts
 #EXTINF:-1 tvg-id="" tvg-chno="5" tvg-name="FOX New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3220.png" group-title="Entertainments", FOX New York
-http://xportal:80/live/xdonation/xdonation/365.ts
+http://xportal:80/live/xdonation/xdonation/45.ts
