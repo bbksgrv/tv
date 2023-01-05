@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="SPORTS", BT SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORTS", BT SPORT 1
 https://webdi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt2.jpg" group-title="SPORTS", BT SPORT 2
