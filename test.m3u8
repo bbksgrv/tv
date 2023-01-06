@@ -1,19 +1,21 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/btsport1.png" group-title="SPORTS", AAAABT SPORT 1
-https://webdi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
-https://webdi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="SPORTS", BT SPORT 1
-https://webdi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="SPORTS", SKY SPORTS PREMIER LEAGUE
-https://webdi.openhd.lol/ddyx2/premium130/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="SPORTS", SKY SPORTS FOOTBALL
-https://webdi.openhd.lol/ddy5/premium35/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="SPORTS", BEIN SPORTS 1 TR
-https://webdi.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
+#EXT-X-VERSION:6
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:3730
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:6.000000,
+#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:31.193+0300
+https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3730.txt
+#EXTINF:6.000000,
+#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:37.193+0300
+https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3731.txt
+#EXTINF:6.000000,
+#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:43.193+0300
+https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3732.txt
+#EXTINF:6.000000,
+#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:49.193+0300
+https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3733.txt
+#EXTINF:6.000000,
+#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:55.193+0300
+https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3734.txt
