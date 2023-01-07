@@ -1,15 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:6.000000, test 2
-https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3730.txt
-#EXTINF:6.000000,
-#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:37.193+0300
-https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3731.txt
-#EXTINF:6.000000,
-#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:43.193+0300
-https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3732.txt
-#EXTINF:6.000000,
-#EXT-X-PROGRAM-DATE-TIME:2023-01-06T23:55:49.193+0300
-https://red.wellaitranidcho.ml/0/046bd2cefc1f998ec6cd62da58480065/602/streamradar_oncedendi_sofra_kuru_sogan_ekmek_ffedc8d6_hd_3733.txt
+#EXT-X-STREAM-INF:BANDWIDTH=1795200,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2"
+https://sette.reizaaschil.ml/p/re.trosalexvieswan.ml/KTEhfkJ1FmBQ8GRkGAw/603/h.comtipog.tk/chunklist_hd.m3u8?verify=1673104759-Ul0JJnHekuYyLakmjoFtt1bAq%2B02nwtuwaFozCyo1LY%3D
