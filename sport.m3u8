@@ -1,25 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skypl.jpg" group-title="SPORTS", SKY SPORT PREMIER LEAGUE
-https://webdi.openhd.lol/ddyx2/premium130/tracks-v1a1/mono.m3u8
+ttps://t2.switchcast2.com:999/hls/skysprem.m3u8?md5=87LzK8HiLUF__XUVsADifQ&expires=1673794458
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", SKY SPORT FOOTBALL
 https://webdi.openhd.lol/ddy5/premium35/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORT 1 TR
-https://t2.switchcast2.com:999/hls/bein1en.m3u8?md5=5gb5DAYo6BP_U_ynr5ePWA&expires=1673182393
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORT 2 TR
-https://due.reizaaschil.ml/p/redir.trosalexvieswan.ml/KTEhfkJ1FmBQ8GRkGAw/602/d.cdcdcd.shop/chunklist_hd.m3u8?verify=1673105717-lKX%2BfAeK7Ad8KpNUN2r%2BLhJ1ArCup3rPCoUj7tmIj4s%3D
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORT 3 TR
-https://sei.reizaaschil.ml/p/redi.trosalexvieswan.ml/KTEhfkJ1FmBQ8GRkGAw/603/b.cdcdcd.shop/chunklist_hd.m3u8?verify=1673105774-AruhUtYEIWzuWAX%2Fb%2BIHkWzMdrX%2Fm%2BrJYKqUkVqPii0%3D
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORT 4 TR
-https://cinque.reizaaschil.ml/p/re.trosalexvieswan.ml/KTEhfkJ1FmBQ8GRkGAw/604/a.cdcdcd.shop/chunklist_hd.m3u8?verify=1673105823-XlB8mgczqowFrpLc7OHxngPQu3mpv7shiIKKYadoGsA%3D
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORT 5 TR
-https://due.reizaaschil.ml/p/redire.trosalexvieswan.ml/KTEhfkJ1FmBQ8GRkGAw/705/h.asdfass.shop/chunklist_hd.m3u8?verify=1673105887-WMPad0eIPBq%2BeX0MobF432gOIJqwQG5EaM1TF4RuX%2Bs%3D
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="SPORTS", TEST BT SPORT 1
 https://no2.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
