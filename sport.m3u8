@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skypl.jpg" group-title="SPORTS", SKY SPORT PREMIER LEAGUE
-ttps://t2.switchcast2.com:999/hls/skysprem.m3u8?md5=87LzK8HiLUF__XUVsADifQ&expires=1673794458
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skypl.jpg" group-title="SPORTS", aaaSKY SPORT PREMIER LEAGUE
+https://newtest.webtv1.lol/ddyx2/premium130/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", SKY SPORT FOOTBALL
 https://webdi.openhd.lol/ddy5/premium35/tracks-v1a1/mono.m3u8
