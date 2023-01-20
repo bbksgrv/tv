@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skypl.jpg" group-title="SPORTS", aaaSKY SPORT PREMIER LEAGUE
-https://newtest.webtv1.lol/ddyx2/premium130/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skypl.jpg" group-title="SPORTS", BEIN SPORTS 1 TR
+https://no2.webtv1.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", SKY SPORT FOOTBALL
-https://webdi.openhd.lol/ddy5/premium35/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/skyfot.jpg" group-title="SPORTS", BEIN SPORTS 2 TR
+https://no2.webtv1.lol/ddy1/premium63/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="SPORTS", TEST BT SPORT 1
-https://no2.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt1.jpg" group-title="SPORTS", BEIN SPORTS 3 TR
+https://no2.webtv1.lol/ddy1/premium64/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt2.jpg" group-title="SPORTS", BT SPORT 2
-https://no2.openhd.lol/ddy1/premium32/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt2.jpg" group-title="SPORTS", BEIN SPORTS 4 TR
+https://no2.webtv1.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bbksgrv/test/main/bt3.jpg" group-title="SPORTS", BT SPORT 3
 https://no2.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
