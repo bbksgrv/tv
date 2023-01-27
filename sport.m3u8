@@ -1,26 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/DKNwiDm.png" ,TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" ,Azad Azərbaycan TV
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="AZ" tvg-logo="https://i.imgur.com/fM9FOrZ.png" ,İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/CLzP4vL.png" ,Çiftçi TV
-http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/homSiDa.png" ,Fox Türkiye
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/fu6XeGS.png" ,Haber Global
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/pxpLpnH.png" ,Kanal 7
 https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/ggmwgiF.png" ,Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/bIGk6RN.png" ,Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 group-title="TR" ,Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/1l7SCCu.png" ,Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/VwWTnf0.png" ,TGRT Belgesel TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-
-
-
+#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/DKNwiDm.png" ,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/CLzP4vL.png" ,Çiftçi TV
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="RU" ,НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1 group-title="RU" ,НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1 group-title="RU" ,НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
+#EXTINF:-1 group-title="RU" ,НТВ хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="RU" ,Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="RU" ,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
