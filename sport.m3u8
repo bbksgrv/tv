@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" ,Azad Azərbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="AZ" ,Xəzər TV
+http://149.255.152.199/xazer.m3u8?bandwidth=2096&e=1674930071&playlistlength=5&shift=0&sid=coder_53&token=fb659f2aed0e0528d8e322e460415f52&user=37076
+#EXTINF:-1 group-title="AZ" ,Real TV
+http://149.255.152.199/real.m3u8?bandwidth=796&e=1674930125&playlistlength=5&shift=0&sid=coder_79&token=858b1268dd517d53cca018f412bca06e&user=37076
+#EXTINF:-1 group-title="AZ" ,TMB Azərbaycan
+http://149.255.152.199/tmbaz.m3u8?bandwidth=2096&e=1674930234&playlistlength=5&shift=0&sid=coder_40&token=57d5e368cd9478df77ab21c38d216772&user=37076
 #EXTINF:-1 group-title="AZ" tvg-logo="https://i.imgur.com/fM9FOrZ.png" ,İdman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="AZ" ,Space TV
+http://149.255.152.199/space.m3u8?bandwidth=2096&e=1674930178&playlistlength=5&shift=0&sid=coder_75&token=ed7d55abb03233bd315e768ecc4052e2&user=37076
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN Turk
@@ -37,3 +45,4 @@ https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="RU" ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
