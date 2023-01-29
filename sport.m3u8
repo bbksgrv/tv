@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,Xəzər TV
-https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
+https://str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/real.png" ,Real TV
 https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=3fcaac445f94feb5ba94112aa652d5193e5b7614-9153b74b801580dd9c885b98a175a420-1675022221-1675011421
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/arb.png" ,ARB
