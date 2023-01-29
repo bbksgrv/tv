@@ -2,45 +2,45 @@
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,Xəzər TV
-http://149.255.152.199/xazer.m3u8?bandwidth=2096&e=1674930071&playlistlength=5&shift=0&sid=coder_53&token=fb659f2aed0e0528d8e322e460415f52&user=37076
+https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/real.png" ,Real TV
-http://149.255.152.199/real.m3u8?bandwidth=796&e=1674930125&playlistlength=5&shift=0&sid=coder_79&token=858b1268dd517d53cca018f412bca06e&user=37076
+https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=3fcaac445f94feb5ba94112aa652d5193e5b7614-9153b74b801580dd9c885b98a175a420-1675022221-1675011421
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/arb.png" ,ARB
-http://149.255.152.199/arb.m3u8?bandwidth=2096&e=1674930607&playlistlength=5&shift=0&sid=coder_52&token=34b5d61fc8ed24f731f3d20e3a018c35&user=37076
+https://59c7ea6bec1c6.streamlock.net/live/arb.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/arb24.png" ,ARB 24
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1674930647&playlistlength=5&shift=0&sid=coder_51&token=9bf1547e64e9bf6ed887ed33a4e0413c&user=37076
+http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/apatv.png" tvg-logo-small="https://raw.githubusercontent.com/bbksgrv/tv/main/apatv.png" ,APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 group-title="AZ" ,ARB Günəş
-http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1674930944&playlistlength=5&shift=0&sid=coder_52&token=e176436d97add6b4419ee8e4db5f1055&user=37076
+https://59c7ea6bec1c6.streamlock.net/live/arbgunes.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/itv.png" ,İctimai TV
 https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=446042
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/aztv.png" ,AzTV
-http://149.255.152.199/aztv.m3u8?bandwidth=796&e=1674930864&playlistlength=5&shift=0&sid=coder_53&token=1d27836a8e276b5e3d83b29a7297eec5&user=37076
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/tmbaz.png" ,TMB Azərbaycan
-http://149.255.152.199/tmbaz.m3u8?bandwidth=2096&e=1674930234&playlistlength=5&shift=0&sid=coder_40&token=57d5e368cd9478df77ab21c38d216772&user=37076
+https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/CBC_Sport_TV_loqo.png" ,CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/idman.png" ,İdman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/space.png" ,Space TV
-http://149.255.152.199/space.m3u8?bandwidth=2096&e=1674930178&playlistlength=5&shift=0&sid=coder_75&token=ed7d55abb03233bd315e768ecc4052e2&user=37076
+https://str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" ,Mədəniyyət TV
-http://149.255.152.199/medeniyet.m3u8?bandwidth=2096&e=1674930902&playlistlength=5&shift=0&sid=coder_52&token=29215364fad075f521bad4287821d6d8&user=37076
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" ,Dünya TV
-http://149.255.152.199/dunya.m3u8?bandwidth=796&e=1674930809&playlistlength=5&shift=0&sid=coder_53&token=4a342e0abb3edcfbf5bc91580149d0e6&user=37076
+https://59c7ea6bec1c6.streamlock.net/live/spacetv.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/qafqaz.png" tvg-logo-small="https://raw.githubusercontent.com/bbksgrv/tv/main/qafqaz.png" ,Qafqaqz TV
-https://str1.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=c3ac73b8643484b337c191d0706a071f7fd6f2f1-f8dfc9b1b095858175a653745e7be319-1674934005-1674923205
+https://str1.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=2aa60e3e55a5c03719dce5da4b1ad7e6b9bf46a7-7758966961a72618965f59ad73463b8f-1675021464-1675010664
 #EXTINF:0 group-title="AZ" ,Qəbələ TV
 https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1 group-title="AZ" ,Az Star
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1995174942_b3096000.m3u8?hash=5082990660ec036b3340a40a5bfeef4b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://yodaplayer.yodacdn.net/logos/bakutv.webp" ,Bakı TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
+https://str.yodacdn.net/bakutv/video.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/kanals.png" ,Kanal S
-http://149.255.152.199/kanals.m3u8?bandwidth=2096&e=1674930771&playlistlength=5&shift=0&sid=coder_57&token=1fcf5e3c1469e87ebe0e40cd4acce760&user=37076
-#EXTINF:-1 group-title="AZ" ,Naxçıvan TV
-http://149.255.152.199/naxtv.m3u8?bandwidth=2000&e=1674930686&playlistlength=5&shift=0&sid=coder_67&token=9e8ac9ad19fc7d6792d4e783c8df7a9a&user=37076
+https://59c7ea6bec1c6.streamlock.net/live/kanals.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
+#EXTINF:-1 group-title="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" ,Naxçıvan TV
+http://canli.naxcivantv.az/media/20230129/high/tv_high.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN Turk
@@ -55,7 +55,7 @@ https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/bIGk6RN.png" ,Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 group-title="TR" ,Kanal D
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" ,Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/1l7SCCu.png" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=53n4p9qyz524&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
