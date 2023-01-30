@@ -41,26 +41,34 @@ https://str.yodacdn.net/bakutv/video.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a
 https://59c7ea6bec1c6.streamlock.net/live/kanals.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" ,Naxçıvan TV
 http://canli.naxcivantv.az/media/20230129/high/tv_high.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" ,Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/1l7SCCu.png" ,Show TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="TR" ,Star
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=53n4iepeb243&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" ,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 group-title="TR" ,Star
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=53n4iepeb243&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/homSiDa.png" ,Fox Türkiye
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/pxpLpnH.png" ,Kanal 7
 https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/ggmwgiF.png" ,Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/2560px-TRT_Avaz_logo.svg.png" ,TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/2560px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" ,TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/bIGk6RN.png" ,Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" ,Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/1l7SCCu.png" ,Show TV
-https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=53n4p9qyz524&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" ,TV 8
-https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=53n510jcshrj&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1200px-TRT_M%C3%BCzik_logo.svg.png" ,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/CLzP4vL.png" ,Çiftçi TV
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
@@ -77,3 +85,5 @@ https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="RU" ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" ,SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
