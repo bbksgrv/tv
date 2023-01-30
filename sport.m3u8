@@ -36,7 +36,7 @@ https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1 group-title="AZ" ,Az Star
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1995174942_b3096000.m3u8?hash=5082990660ec036b3340a40a5bfeef4b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://yodaplayer.yodacdn.net/logos/bakutv.webp" ,Bakı TV
-https://str.yodacdn.net/bakutv/video.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
+https://newtest.webtv1.lol/ddyx2/premium130/playlist.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/kanals.png" ,Kanal S
 https://59c7ea6bec1c6.streamlock.net/live/kanals.stream/playlist.m3u8?hash=7ef9aa10168e8e401c59e37b08090f6b
 #EXTINF:-1 group-title="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" ,Naxçıvan TV
@@ -71,6 +71,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://i.imgur.com/CLzP4vL.png" ,Çiftçi TV
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR" tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" ,SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru" ,НТВ Право
@@ -85,5 +87,5 @@ https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="RU" ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" ,SportsTV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" ,Sky Sports PL
+https://newtest.webtv1.lol/ddyx2/premium130/playlist.m3u8
