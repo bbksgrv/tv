@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U 
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Az?rbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,X?z?r TV
@@ -59,9 +59,9 @@ http://51.15.2.151/hls/kanalavrupa.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/2560px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" ,TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="TR" tvg-logo="https://www.donmaztv.com/trt-1.png" ,TRT 1
+#EXTINF:-1 group-title="TR" tvg-logo="https://www.donmaztv.com/trt-1.png" ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
-#EXTINF:-1 group-title="TR" tvg-id="TRT Belgesel TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT Belgesel TR
+#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1200px-TRT_M%C3%BCzik_logo.svg.png" ,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
