@@ -1,7 +1,7 @@
-#EXTM3U
-#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Az?rbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,Xəzər TV
+#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,X?z?r TV
 https://stream.seotoolsm.com/AZ-xezer.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/real.png" ,Real TV
 https://stream.seotoolsm.com/AZ-real.m3u8
@@ -11,29 +11,29 @@ https://stream.seotoolsm.com/AZ-arb.m3u8
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/apatv.png" tvg-logo-small="https://raw.githubusercontent.com/bbksgrv/tv/main/apatv.png" ,APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 group-title="AZ" ,ARB Günəş
+#EXTINF:-1 group-title="AZ" ,ARB Gün??
 https://stream.seotoolsm.com/AZ-arbgunes.m3u8
-#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/itv.png" ,İctimai TV
+#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/itv.png" ,?ctimai TV
 https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=446042
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/aztv.png" ,AzTV
 https://stream.seotoolsm.com/AZ-aztv.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/CBC_Sport_TV_loqo.png" ,CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/idman.png" ,İdman TV
+#EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/idman.png" ,?dman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/space.png" ,Space TV
 https://stream.seotoolsm.com/AZ-space.m3u8
-#EXTINF:-1 group-title="AZ" ,Mədəniyyət TV
+#EXTINF:-1 group-title="AZ" ,M?d?niyy?t TV
 https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
 #EXTINF:-1 group-title="AZ" ,Dünya TV
 https://stream.seotoolsm.com/AZ-dunya.m3u8
-#EXTINF:0 group-title="AZ" ,Qəbələ TV
+#EXTINF:0 group-title="AZ" ,Q?b?l? TV
 https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1 group-title="AZ" ,Az Star
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1995174942_b3096000.m3u8?hash=5082990660ec036b3340a40a5bfeef4b
-#EXTINF:-1 group-title="AZ" tvg-logo="https://yodaplayer.yodacdn.net/logos/bakutv.webp" ,Bakı TV
+#EXTINF:-1 group-title="AZ" tvg-logo="https://yodaplayer.yodacdn.net/logos/bakutv.webp" ,Bak? TV
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1 group-title="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" ,Naxçıvan TV
+#EXTINF:-1 group-title="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" ,Naxç?van TV
 http://canli.naxcivantv.az/media/20230129/high/tv_high.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" ,Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
@@ -61,7 +61,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TR" tvg-logo="https://www.donmaztv.com/trt-1.png" ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
-#EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT Belgesel
+#EXTINF:-1 group-title="TR" tvg-id="TRT Belgesel TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT Belgesel TR
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1200px-TRT_M%C3%BCzik_logo.svg.png" ,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
@@ -69,19 +69,19 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TR" tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" ,SportsTV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
+#EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,???
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru" ,НТВ Право
+#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru" ,??? ?????
 https://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png" ,НТВ Сериал
+#EXTINF:-1 group-title="RU" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png" ,??? ??????
 https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9D%D0%A2%D0%92_%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%282017%29.svg/revision/latest?cb=20180518165310&path-prefix=ru" ,НТВ Стиль
+#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9D%D0%A2%D0%92_%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%282017%29.svg/revision/latest?cb=20180518165310&path-prefix=ru" ,??? ?????
 https://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://brandrealism.ru/images/logo-ntv-hit.png" ,НТВ хит
+#EXTINF:-1 group-title="RU" tvg-logo="https://brandrealism.ru/images/logo-ntv-hit.png" ,??? ???
 https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1 group-title="RU" ,Суббота HD
+#EXTINF:-1 group-title="RU" ,??????? HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="RU" ,ТВЦ
+#EXTINF:-1 group-title="RU" ,???
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,Test
 https://no2.webtv1.lol/ddy1/premium61/tracks-v1a1/mono.m3u8
