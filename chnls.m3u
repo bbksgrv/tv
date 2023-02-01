@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/az/tv.mail.ru.xml"
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Az?rbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 group-title="AZ" tvg-id="XezerTV.az" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,X?z?r TV
+#EXTINF:-1 group-title="AZ" tvg-id="XezerTV.az" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,Xəzər TV
 https://stream.seotoolsm.com/AZ-xezer.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/real.png" ,Real TV
 https://stream.seotoolsm.com/AZ-real.m3u8
