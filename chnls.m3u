@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 group-title="AZ" tvg-id="3706" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
+#EXTINF:-1 group-title="AZ" tvg-id="2559" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 group-title="AZ" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/xezer.png" ,Xəzər TV
 https://stream.seotoolsm.com/AZ-xezer.m3u8
