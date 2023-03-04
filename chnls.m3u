@@ -81,216 +81,300 @@ https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="RU" ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0 group-title="TR" ,TV 8.5
-https://cdn12.alfastreamtv.com/tv85.m3u8?tkn=mMP9aeIFNqWIGiuRHcFBeQ&tms=1675380411&hst=www.canliradyotv.com&ip=212.47.142.24
-#EXTINF:0 tvg-rec="7",Матч ТВ
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 1
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 2
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 3
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Премьер
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/531/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Арена
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/528/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Планета
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/123/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Страна
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/107/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Боец
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/150/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Игра
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/529/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч +2
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6012/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +3 (Омск)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15432/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч +4
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6023/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Алтай-Дианэт)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15289/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч +8
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6052/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/141/index.m3u8
-#EXTINF:0 tvg-rec="7",Extreme Sports
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/144/index.m3u8
-#EXTINF:0 tvg-rec="7",Viasat Sport
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/160/index.m3u8
-#EXTINF:0 tvg-rec="7",MMA-TV.com
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/843/index.m3u8
-#EXTINF:0 tvg-rec="7",Бокс ТВ
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/870/index.m3u8
-#EXTINF:0 tvg-rec="3",Моторспорт ТВ
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2145/index.m3u8
-#EXTINF:0 tvg-rec="3",Старт
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2154/index.m3u8
-#EXTINF:0 tvg-rec="3",Футбол
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/5050/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир Баскетбола
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10033/index.m3u8
-#EXTINF:0 tvg-rec="0",Хоккейный HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10039/index.m3u8
-#EXTINF:0 tvg-rec="7",Спортивный HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10057/index.m3u8
-#EXTINF:0 tvg-rec="7",Футбольный HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10058/index.m3u8
-#EXTINF:0 tvg-rec="0",Живи Активно HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15143/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Ukraine HD orig
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15183/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Ukraine Plus HD orig
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15184/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +2 (Уфа)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15307/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Липецк)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15314/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +7 (Владивосток)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15335/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Томск)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15387/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Белгород)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15409/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Элиста)
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15448/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Страна HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19219/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Боец HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19221/index.m3u8
-#EXTINF:0 tvg-rec="0",MMA-TV.com HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19243/index.m3u8
-#EXTINF:0 tvg-rec="0",Футбол HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19244/index.m3u8
-#EXTINF:0 tvg-rec="0",Бокс ТВ HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19245/index.m3u8
-#EXTINF:0 tvg-rec="0",Удар HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19246/index.m3u8
-#EXTINF:0 tvg-rec="0",KHL Prime HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19396/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta 1 Qazaqstan HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20064/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta 2 Qazaqstan HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20065/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports Moldova HD
-#EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20074/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/206/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Арена HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/207/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/211/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч ТВ HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/212/index.m3u8
-#EXTINF:0 tvg-rec="7",KHL HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/215/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Премьер HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/220/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/222/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Игра HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/225/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1 HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/228/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/234/index.m3u8
-#EXTINF:0 tvg-rec="3",XSPORT HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/996/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Ukraine HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/272/index.m3u8
-#EXTINF:0 tvg-rec="7",Удар
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2000/index.m3u8
-#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2005/index.m3u8
-#EXTINF:0 tvg-rec="7",Viasat Sport HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2007/index.m3u8
-#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2146/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2399/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто Плюс HD
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6369/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Игра HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10014/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Футбол 1 HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10015/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Футбол 3 HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10016/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч ТВ HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10020/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Премьер HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10021/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Футбол 2 HD 50
-#EXTGRP:HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10027/index.m3u8
-
+#EXTINF:0 tvg-id="Auto Motor Sport HD" tvg-logo="http://tv.team/images/chIcons/273.png" tvg-rec="3", Auto Motor Sport HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch273/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOlkS2qKdeKMe63nJOCEPer00TDBi83PGxl3ohBNCh3S
+#EXTINF:0 tvg-id="Dazn 1 Bar HD" tvg-logo="http://tv.team/images/chIcons/86.png" tvg-rec="0", Dazn 1 Bar HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch086/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKFYkPjUvK9421NzyiVK1RK2EFpp--VP10yI8OM7J2Dl8
+#EXTINF:0 tvg-id="Dazn Kabel 1 HD" tvg-logo="http://tv.team/images/chIcons/1292.png" tvg-rec="3", Dazn Kabel 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1292/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGjR47LtBivFD-urWIeZvDkIMHpfUqKGpGR7rL_5GjiD
+#EXTINF:0 tvg-id="Dazn 2 Bar HD" tvg-logo="http://tv.team/images/chIcons/35.png" tvg-rec="0", Dazn 2 Bar HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch035/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKKVNALMHa2-EgdLrodVlebmX1JWcQC-KuPkyQ5LJbx2X
+#EXTINF:0 tvg-id="Dazn Kabel 2 HD" tvg-logo="http://tv.team/images/chIcons/1293.png" tvg-rec="3", Dazn Kabel 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1293/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNIrypLjAac9hxaOR8DiaTFOu87gjc9pYe6-Deadq6uB
+#EXTINF:0 tvg-id="Dazn LFC TV HD" tvg-logo="http://tv.team/images/chIcons/1430.png" tvg-rec="0", Dazn LFC TV HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1430/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJUduKqRyTl51cX010yBrf4Z65UlSP8sDyV7pm-nbf_X
+#EXTINF:0 tvg-id="Dazn Event 1 HD" tvg-logo="http://tv.team/images/chIcons/2017.png" tvg-rec="0", Dazn Event 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2017/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKC2RpCyS9JqYtcE4mLOfF2BUbcP4nFNkuR_V-fDxgp3-
+#EXTINF:0 tvg-id="Dazn Event 2 HD" tvg-logo="http://tv.team/images/chIcons/2018.png" tvg-rec="0", Dazn Event 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2018/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLJm3_23I5ZBypEr1wErrcbYLiWjh35pCuGCmfWjpFS9
+#EXTINF:0 tvg-id="Dazn Event 3 HD" tvg-logo="http://tv.team/images/chIcons/2019.png" tvg-rec="0", Dazn Event 3 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2019/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGfXSIR2xAcgHhd0JwNDSE1q_9hDsd-kb5Ua-z8WiBs-
+#EXTINF:0 tvg-id="Dazn Event 4 HD" tvg-logo="http://tv.team/images/chIcons/2020.png" tvg-rec="0", Dazn Event 4 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2020/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKG_-5TjTHGqN6YEnbKLPMr6Ct3xxkVlQ91TbxnAFCfzS
+#EXTINF:0 tvg-id="Dazn Event 5 HD" tvg-logo="http://tv.team/images/chIcons/2021.png" tvg-rec="0", Dazn Event 5 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2021/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEafcpmPGoCoe9hfD40GKdYrLmVz_pxE4G1Q4YWOTtLy
+#EXTINF:0 tvg-id="Dazn Event 6 HD" tvg-logo="http://tv.team/images/chIcons/2022.png" tvg-rec="0", Dazn Event 6 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2022/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOu5lRvEBE3JqbVX15ep9io8uWSotCHl1alRS-GHjNON
+#EXTINF:0 tvg-id="Dazn Event 7 HD" tvg-logo="http://tv.team/images/chIcons/2023.png" tvg-rec="0", Dazn Event 7 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2023/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKHrdNEHC3_Ur0jFTZHeE8IpC8cZZ12IpHOzhxuucWnzY
+#EXTINF:0 tvg-id="Dazn Event 8 HD" tvg-logo="http://tv.team/images/chIcons/2024.png" tvg-rec="0", Dazn Event 8 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2024/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLjztI58kFYAbfmEjDskOBSYGh3QCuYE8B7W01k-7JVd
+#EXTINF:0 tvg-id="Dazn Event 9 HD" tvg-logo="http://tv.team/images/chIcons/2025.png" tvg-rec="0", Dazn Event 9 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2025/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEsuVBZxlATaYhOSkyA8JE_NQ_PJUHu0M1nnPvrfBu_L
+#EXTINF:0 tvg-id="Dazn Event 10 HD" tvg-logo="http://tv.team/images/chIcons/2026.png" tvg-rec="0", Dazn Event 10 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2026/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNlAzllQDQHQn_VmkKEb4C_fUrgCFJ-Tp0yCwa2Jejw8
+#EXTINF:0 tvg-id="Dazn Event 11 HD" tvg-logo="http://tv.team/images/chIcons/2070.png" tvg-rec="0", Dazn Event 11 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2070/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOvXzKvlPx8oo3AtNCa08C0tBqpSAt57RgH7C8prRGZ3
+#EXTINF:0 tvg-id="Dazn Event 12 HD" tvg-logo="http://tv.team/images/chIcons/2071.png" tvg-rec="0", Dazn Event 12 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2071/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCowWGcHGkgbsnabIo0Ciu2ztRiW5yGoyxU8K5NLJ0wP
+#EXTINF:0 tvg-id="Dazn Event 13 HD" tvg-logo="http://tv.team/images/chIcons/2072.png" tvg-rec="0", Dazn Event 13 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2072/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJlhuSzhlrCypUrLhs6PwAFKgpksBq8hfhjnvXpXVQey
+#EXTINF:0 tvg-id="Dazn Event 14 HD" tvg-logo="http://tv.team/images/chIcons/2073.png" tvg-rec="0", Dazn Event 14 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2073/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDvMcl_R7MfVXxl_Y1gELm_G0hM4WqaRSJBhiV81tzAP
+#EXTINF:0 tvg-id="Dazn Event 15 HD" tvg-logo="http://tv.team/images/chIcons/2074.png" tvg-rec="0", Dazn Event 15 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2074/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJ9Zh8rVVpudPUM5rlryzJi7ebehoEsZnVt0Po3wSJFZ
+#EXTINF:0 tvg-id="Dazn Event 16 HD" tvg-logo="http://tv.team/images/chIcons/2075.png" tvg-rec="0", Dazn Event 16 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2075/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOJ_NQ02FYovvUz6yhylqtnkogxSLuLBYPyPFdBsTAG1
+#EXTINF:0 tvg-id="Dazn Event 17 HD" tvg-logo="http://tv.team/images/chIcons/2076.png" tvg-rec="0", Dazn Event 17 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2076/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKN5_Y_7Ehpjl3yuFc9TJWeTndFYJs2hv5AvL5yIIGGje
+#EXTINF:0 tvg-id="Eurosport 1 HD DE" tvg-logo="http://tv.team/images/chIcons/286.png" tvg-rec="3", Eurosport 1 HD DE
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch286/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKFvZ-ka_Nx5vQGRRqZBzsoIOCNl2cMTiz7ghpVgQFb5b
+#EXTINF:0 tvg-id="Eurosport 2 HD DE" tvg-logo="http://tv.team/images/chIcons/287.png" tvg-rec="3", Eurosport 2 HD DE
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch287/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGdoqqFZGap5QjDgrzY0RJVqGzm24umTywRD4aKWhbV5
+#EXTINF:0 tvg-id="Extreme Sports DE" tvg-logo="http://tv.team/images/chIcons/2003.png" tvg-rec="0", Extreme Sports DE
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2003/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEQRJP9B4rxXxXlqOfT1i1Mp9m_nrhcsCtF3djpqy5VE
+#EXTINF:0 tvg-id="Eurosport 2Xtra HD" tvg-logo="http://tv.team/images/chIcons/288.png" tvg-rec="0", Eurosport 2Xtra HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch288/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDyFoqp6We4YlI0lIyK01CvB75xIL2iNSbPsGVAh8VBU
+#EXTINF:0 tvg-id="Eurosport 360 1 HD" tvg-logo="http://tv.team/images/chIcons/121.png" tvg-rec="0", Eurosport 360 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch121/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJiMQb8PfxKPP3T3cyEmTXoxfHtW7oYBVanqG05QV2JM
+#EXTINF:0 tvg-id="eSports1 HD" tvg-logo="http://tv.team/images/chIcons/215.png" tvg-rec="3", eSports1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch215/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKM0lA0Lnt3xUNgs0SQYYjfaFES8tVI7H2uCZx2rmlqhP
+#EXTINF:0 tvg-id="FC Bayern TV HD" tvg-logo="http://tv.team/images/chIcons/285.png" tvg-rec="0", FC Bayern TV HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch285/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPqaUbOLMtQhwNeRRuociX8ImN03fTkjRiqQ52Wm29DG
+#EXTINF:0 tvg-id="ORF Sport+ HD" tvg-logo="http://tv.team/images/chIcons/1555.png" tvg-rec="0", ORF Sport+ HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1555/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGIbDF6ucUBSGrQrSixauwFU2U7yVEvpzIZaQ1R-ftxP
+#EXTINF:0 tvg-id="RTL+_Live 1" tvg-logo="http://tv.team/images/chIcons/1905.png" tvg-rec="0", RTL+_Live 1
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1905/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDHyISY-nlbdRiV4kmRaBIDAKEedTrZCE3tbxQvq6usj
+#EXTINF:0 tvg-id="RTL+_Live 2" tvg-logo="http://tv.team/images/chIcons/1906.png" tvg-rec="0", RTL+_Live 2
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1906/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKAiDJ-VgEgsAtOX9y7RvhXCyIIa5G8fdZDVoyCus4WZa
+#EXTINF:0 tvg-id="RTL+_Live 3" tvg-logo="http://tv.team/images/chIcons/1907.png" tvg-rec="0", RTL+_Live 3
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1907/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLN6t28xYTDjzDRmc4MrNbFGlqh3RAZadoqEdwg8bOW0
+#EXTINF:0 tvg-id="RTL+_Live 4" tvg-logo="http://tv.team/images/chIcons/1908.png" tvg-rec="0", RTL+_Live 4
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1908/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDOIYiKULKip9ax4Itc56fU-uZNUOLBydiARfvYGHc6T
+#EXTINF:0 tvg-id="RTL+_Live 5" tvg-logo="http://tv.team/images/chIcons/1909.png" tvg-rec="0", RTL+_Live 5
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1909/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPT4FthNmfGtfSegfKUGlSNag2csokxhrOOAIUo1Y1Ts
+#EXTINF:0 tvg-id="RTL+_Live 6" tvg-logo="http://tv.team/images/chIcons/1910.png" tvg-rec="0", RTL+_Live 6
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1910/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKObL53jm0FD3pk12mpboxzXlumVQHq8omg2-lt2VAOtw
+#EXTINF:0 tvg-id="Red Bull TV" tvg-logo="http://tv.team/images/chIcons/1903.png" tvg-rec="0", Red Bull TV
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1903/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNq8AYYE-tIp8LrySgnJHawQflQk2e5vbODBqD6YZUO3
+#EXTINF:0 tvg-id="Sky Sport News HD" tvg-logo="http://tv.team/images/chIcons/186.png" tvg-rec="0", Sky Sport News HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch186/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIGtfvHsd0dwjnnPfScgl1T7vsJK3VeCMabhjoBMtq4F
+#EXTINF:0 tvg-id="Sky Sport Premier League HD DE" tvg-logo="http://tv.team/images/chIcons/1873.png" tvg-rec="3", Sky Sport Premier League HD DE
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1873/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKBmRcDwxyI8FUNF6pRaoEoaYe9sz82YakeuS4YHNPf5_
+#EXTINF:0 tvg-id="Sky Sport Top Event" tvg-logo="http://tv.team/images/chIcons/1874.png" tvg-rec="3", Sky Sport Top Event
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1874/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKBCGF2py2XF1kw7fXKUcJC30X_uv0bXdPgdS67tNBBeM
+#EXTINF:0 tvg-id="Sky Sport Golf HD" tvg-logo="http://tv.team/images/chIcons/1875.png" tvg-rec="3", Sky Sport Golf HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1875/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKFEitk6rpiipiJeZAab_LFxA8C0MvU9NtC6JxHtr46cc
+#EXTINF:0 tvg-id="Sky Sport Mix HD" tvg-logo="http://tv.team/images/chIcons/1876.png" tvg-rec="3", Sky Sport Mix HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1876/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPov_Rf2o9eUcCDGsQkwEFyd4YDw9D-33NGK5zyjXGTn
+#EXTINF:0 tvg-id="Sky Sport Tennis HD" tvg-logo="http://tv.team/images/chIcons/1877.png" tvg-rec="3", Sky Sport Tennis HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1877/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKMknbDOJ16ayyAs7j3IePXB0uD0KWVHWERnLTrxNCsMJ
+#EXTINF:0 tvg-id="Sky Sport UHD" tvg-logo="http://tv.team/images/chIcons/1432.png" tvg-rec="0", Sky Sport UHD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1432/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPNytKHRJ2Uq-GnY2Prx6Rt3CYuKtM62SEkQjJNO4jVs
+#EXTINF:0 tvg-id="Sky Sport 1 HD" tvg-logo="http://tv.team/images/chIcons/149.png" tvg-rec="0", Sky Sport 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch149/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPpzP5zWYZHpRO6B-4_WmaaAOZtGkYROGBPriUE2RlhI
+#EXTINF:0 tvg-id="Sky Sport 2 HD" tvg-logo="http://tv.team/images/chIcons/150.png" tvg-rec="0", Sky Sport 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch150/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKK6BlJjSIuYKXu-VXTeWJFlxx_l24oqNOjcVDFo4dvUx
+#EXTINF:0 tvg-id="Sky Sport 3 HD" tvg-logo="http://tv.team/images/chIcons/194.png" tvg-rec="0", Sky Sport 3 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch194/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNJ66AdC0TFKMetTzjgaU9C2OY9y1Sgp4hTeyH4E5GhY
+#EXTINF:0 tvg-id="Sky Sport 4 HD" tvg-logo="http://tv.team/images/chIcons/195.png" tvg-rec="0", Sky Sport 4 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch195/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCwWAHYU02MChCWsl1N5T-dm5F94Bm2GCdC-YFvJtYvo
+#EXTINF:0 tvg-id="Sky Sport 5 HD" tvg-logo="http://tv.team/images/chIcons/196.png" tvg-rec="0", Sky Sport 5 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch196/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIjgNQtxPk33Gf0wdR-Xnx6uFhNPWbgdl9x4oxvYl1GF
+#EXTINF:0 tvg-id="Sky Sport 6 HD" tvg-logo="http://tv.team/images/chIcons/197.png" tvg-rec="0", Sky Sport 6 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch197/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKFGODchf8C8er0loemj-C6I-r28_DaL7sbEOWX7XJNdZ
+#EXTINF:0 tvg-id="Sky Sport 7 HD" tvg-logo="http://tv.team/images/chIcons/1321.png" tvg-rec="0", Sky Sport 7 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1321/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKM4VyM4rh2Te9SCWPnl9oMkYAAFCzG53C-MAq4r7DMb6
+#EXTINF:0 tvg-id="Sky Sport 8 HD" tvg-logo="http://tv.team/images/chIcons/361.png" tvg-rec="0", Sky Sport 8 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch361/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCVUJGtwfHuKGLc34-Pju7H8xRFzLUwMgw-9p9QDEI3q
+#EXTINF:0 tvg-id="Sky Sport 9 HD" tvg-logo="http://tv.team/images/chIcons/1322.png" tvg-rec="0", Sky Sport 9 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1322/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEe39QyNX9m1XCKl1Rp9ur7bVnYsM4wZFc-KKYyc1w_4
+#EXTINF:0 tvg-id="Sky Sport 10 HD" tvg-logo="http://tv.team/images/chIcons/1320.png" tvg-rec="0", Sky Sport 10 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1320/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGoDoBvE9D93Kw7FbSrb-L_ezOyJAyh-nC8nYDhIeS0E
+#EXTINF:0 tvg-id="Sky Sport 11 HD" tvg-logo="http://tv.team/images/chIcons/1947.png" tvg-rec="0", Sky Sport 11 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1947/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLqA13fHgHNqS__VbcKRIiEOtuff1z52Nsrk3ltFIAXa
+#EXTINF:0 tvg-id="Sky Sport Bundesliga UHD" tvg-logo="http://tv.team/images/chIcons/1433.png" tvg-rec="0", Sky Sport Bundesliga UHD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1433/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIfwuxUUOYMRBEPUMPINl7Ud0CoHy8uzOR2TlS-hC_C3
+#EXTINF:0 tvg-id="Sky Sport Bundesliga Kabel HD" tvg-logo="http://tv.team/images/chIcons/1872.png" tvg-rec="3", Sky Sport Bundesliga Kabel HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1872/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKMnzDMKnfY5ee6m0nrPTfSOuldwmPKXeMmwnQ7cQbRb6
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 1 HD" tvg-logo="http://tv.team/images/chIcons/151.png" tvg-rec="0", Sky Sport Bundesliga 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch151/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIYidejDJrpNFAzy1vTdjYq6rDcpHGboiSu0j9I0iBpd
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 2 HD" tvg-logo="http://tv.team/images/chIcons/152.png" tvg-rec="0", Sky Sport Bundesliga 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch152/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKN965AYgU9Y_eZvDD_M4qUV671-Qrq5XXm4MFQOC2Jzn
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 3 HD" tvg-logo="http://tv.team/images/chIcons/199.png" tvg-rec="0", Sky Sport Bundesliga 3 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch199/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKB9-LaeN44eo_OY-F89tN8MpzfnbmCL0wgS2QZ-6Uzo1
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 4 HD" tvg-logo="http://tv.team/images/chIcons/200.png" tvg-rec="0", Sky Sport Bundesliga 4 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch200/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKO33QfgO6VVOa4moayR1CuWrulWrfWZrPmf7YB8v3FS6
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 5 HD" tvg-logo="http://tv.team/images/chIcons/201.png" tvg-rec="0", Sky Sport Bundesliga 5 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch201/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGZ90veP1oEdArxeQ_TjcIst43SbtC-Bv-Ou2U7jm-O9
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 6 HD" tvg-logo="http://tv.team/images/chIcons/202.png" tvg-rec="0", Sky Sport Bundesliga 6 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch202/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPm4e7yCv1Kuz8b5PR9XBT2KMsu7z8CyeHrjYsm3xNH0
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 7 HD" tvg-logo="http://tv.team/images/chIcons/203.png" tvg-rec="0", Sky Sport Bundesliga 7 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch203/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGKybbAPtCVxx1ljn-HAPb5FvT111C7eeJ-_NOIu6G_-
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 8 HD" tvg-logo="http://tv.team/images/chIcons/204.png" tvg-rec="0", Sky Sport Bundesliga 8 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch204/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPYK32Zum6dKOD7fVLPffdp02L8vAYVZQLMi7K1Oc7cZ
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 9 HD" tvg-logo="http://tv.team/images/chIcons/205.png" tvg-rec="0", Sky Sport Bundesliga 9 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch205/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKA0dxABEhkxiw3MH17FmkChf1c-CwYyNpeUP3Os4mqaN
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 10 HD" tvg-logo="http://tv.team/images/chIcons/848.png" tvg-rec="0", Sky Sport Bundesliga 10 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch848/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKK93iKLl7y6A1G_W_-XRxJdI6T1W2VUolAq1HV3vhcs2
+#EXTINF:0 tvg-id="Sky Sport F1 HD" tvg-logo="http://tv.team/images/chIcons/852.png" tvg-rec="3", Sky Sport F1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch852/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCiFb8JeDHsyVdMzB3Iin1DCHL9IVemMcauDNtR6qVoA
+#EXTINF:0 tvg-id="Sky Sport F1 Kabel HD" tvg-logo="http://tv.team/images/chIcons/1431.png" tvg-rec="3", Sky Sport F1 Kabel HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1431/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOQ0tkU9oNeOwKVBIE0MxF2ipmiBrZG1xBwBrSzL1Uhc
+#EXTINF:0 tvg-id="Sky Sport Austria 1 HD" tvg-logo="http://tv.team/images/chIcons/198.png" tvg-rec="3", Sky Sport Austria 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch198/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKN1qA5megE9yMGzVeoU-btuvmTND93may_wEaU67Yn88
+#EXTINF:0 tvg-id="Sky Sport Austria 2 HD" tvg-logo="http://tv.team/images/chIcons/1283.png" tvg-rec="0", Sky Sport Austria 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1283/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKK56-tp6EY7yLi2FkcsMeyvOxJspIr53f_E1T-G9yL0J
+#EXTINF:0 tvg-id="Sky Sport Austria 3 HD" tvg-logo="http://tv.team/images/chIcons/1284.png" tvg-rec="0", Sky Sport Austria 3 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1284/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIXt1ZWAIMYX04Uh1p_fONEZ1ESmpzvyOYwZKpag-o3a
+#EXTINF:0 tvg-id="Sky Sport Austria 4 HD" tvg-logo="http://tv.team/images/chIcons/1285.png" tvg-rec="0", Sky Sport Austria 4 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1285/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKKt9PxDRihE71wIdUin2zNbycrRAjA8LNy65hagSoW3Z
+#EXTINF:0 tvg-id="Sky Sport Austria 5 HD" tvg-logo="http://tv.team/images/chIcons/1317.png" tvg-rec="0", Sky Sport Austria 5 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1317/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGBO5c1RebbwBeW4qxQA_FfrBwUHSaC9Qed5bzEU17Ei
+#EXTINF:0 tvg-id="Sky Sport Austria 6 HD" tvg-logo="http://tv.team/images/chIcons/1318.png" tvg-rec="0", Sky Sport Austria 6 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1318/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKKug9S6-c5nmAr0WQ0yCzXXDIKI2WpjoDymnraO8ZfiB
+#EXTINF:0 tvg-id="Sky Sport Austria 7 HD" tvg-logo="http://tv.team/images/chIcons/1319.png" tvg-rec="0", Sky Sport Austria 7 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1319/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKAfnh2rBKS7AeVorKr1Kw3xqSjssNvCemURQbIC_lOoE
+#EXTINF:0 tvg-id="Sport1 HD" tvg-logo="http://tv.team/images/chIcons/263.png" tvg-rec="3", Sport1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch263/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJ-iHEVICwH4U8kMljqtkVzvF2pq8uPRuzKezyB8Swq9
+#EXTINF:0 tvg-id="Sport1+ HD" tvg-logo="http://tv.team/images/chIcons/264.png" tvg-rec="3", Sport1+ HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch264/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCkl1Pus5q7CNRMZHkY8nnKaa5-slavy5c2UQNTcuk9W
+#EXTINF:0 tvg-id="Sportdigital Fussball HD" tvg-logo="http://tv.team/images/chIcons/2006.png" tvg-rec="3", Sportdigital Fussball HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch2006/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKF-K7Snym6sRvasMZT8gMEAwsI3sZd2VVFRUQyOhwV-L
+#EXTINF:0 tvg-id="Telekom Sport 1 HD" tvg-logo="http://tv.team/images/chIcons/188.png" tvg-rec="0", Telekom Sport 1 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch188/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCp5uNJA4CUUAolKHUovvCnNR5KdD-tcblDDDxfmraym
+#EXTINF:0 tvg-id="Telekom Sport 2 HD" tvg-logo="http://tv.team/images/chIcons/189.png" tvg-rec="0", Telekom Sport 2 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch189/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKGP4F6lWqfzBtn76qIVSPvVUNr1P9fc-L2rtfAV3sSD-
+#EXTINF:0 tvg-id="Telekom Sport 3 HD" tvg-logo="http://tv.team/images/chIcons/190.png" tvg-rec="0", Telekom Sport 3 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch190/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCvQMFGSYGzumKWJWnHDbEvfCzxj9BnzdJBdmrAssKEj
+#EXTINF:0 tvg-id="Telekom Sport 4 HD" tvg-logo="http://tv.team/images/chIcons/191.png" tvg-rec="0", Telekom Sport 4 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch191/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDdi7mdydyEijSmUG79qJpvu4w39L-HLEzdWDz4pZOHp
+#EXTINF:0 tvg-id="Telekom Sport 5 HD" tvg-logo="http://tv.team/images/chIcons/192.png" tvg-rec="0", Telekom Sport 5 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch192/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKHpZRtLZrVLV3AANOEOiYdL8T32XvWkjZPhjpo31qUYS
+#EXTINF:0 tvg-id="Telekom Sport 6 HD" tvg-logo="http://tv.team/images/chIcons/193.png" tvg-rec="0", Telekom Sport 6 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch193/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDwWJl-D_m8-HUp2vII4TLdiiIouU3iejyHckpCJEuzG
+#EXTINF:0 tvg-id="Telekom Sport 7 HD" tvg-logo="http://tv.team/images/chIcons/212.png" tvg-rec="0", Telekom Sport 7 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch212/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDM8Snd88t32MJjtP2_EuUcuvq9dhsbgPPBU_Y2V547M
+#EXTINF:0 tvg-id="Telekom Sport 8 HD" tvg-logo="http://tv.team/images/chIcons/1882.png" tvg-rec="0", Telekom Sport 8 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1882/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKMk46MNpeOddE9ZfBzUiB78eB3qvYg_4GlomAHiS0Enf
+#EXTINF:0 tvg-id="Telekom Sport 9 HD" tvg-logo="http://tv.team/images/chIcons/1883.png" tvg-rec="0", Telekom Sport 9 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1883/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCmcvxBNHdrq0F65oS6BbS_nKGs5X6Knf5s0AxdABAd3
+#EXTINF:0 tvg-id="Telekom Sport 10 HD" tvg-logo="http://tv.team/images/chIcons/1884.png" tvg-rec="0", Telekom Sport 10 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1884/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKMYX_IvEK2mz9ABQeUdji9dTAWPorIrOxctWhIRVuxGf
+#EXTINF:0 tvg-id="Telekom Sport 11 HD" tvg-logo="http://tv.team/images/chIcons/1885.png" tvg-rec="0", Telekom Sport 11 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1885/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKK95nbzlhXUEFVM8CTaQQJoURPwBpVlg74u1WzOyU3As
+#EXTINF:0 tvg-id="Telekom Sport 12 HD" tvg-logo="http://tv.team/images/chIcons/1886.png" tvg-rec="0", Telekom Sport 12 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1886/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKBWZbxqEqZEiCaDixoTtI1yAwBuf4UMoqWW_Ow3pzbhn
+#EXTINF:0 tvg-id="Telekom Sport 13 HD" tvg-logo="http://tv.team/images/chIcons/1887.png" tvg-rec="0", Telekom Sport 13 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1887/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKAH03C-kE_YoaVTc8SJttKzjwxU7HpBZP3G9YuoRDKms
+#EXTINF:0 tvg-id="Telekom Sport 14 HD" tvg-logo="http://tv.team/images/chIcons/1888.png" tvg-rec="0", Telekom Sport 14 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1888/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKA-F2OVZAOcDgImGnOe1k2QtExNKbCoTidaxrYWYTLpW
+#EXTINF:0 tvg-id="Telekom Sport 15 HD" tvg-logo="http://tv.team/images/chIcons/1889.png" tvg-rec="0", Telekom Sport 15 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1889/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLmIXYiDEvNX29YqKVMrAqxIIx4CQp-1kMnsgFBuQ_lS
+#EXTINF:0 tvg-id="Telekom Sport 16 HD" tvg-logo="http://tv.team/images/chIcons/1890.png" tvg-rec="0", Telekom Sport 16 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1890/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKE3OvvadU5wbyUEb8Ay3d16Ol2eJPWrUkRaeq7cLFV6l
+#EXTINF:0 tvg-id="Telekom Sport 17 HD" tvg-logo="http://tv.team/images/chIcons/1891.png" tvg-rec="0", Telekom Sport 17 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1891/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEXMWQ0OdPli7YHN8i6hZRjn9C2yqI_1kfFCrE_rSb2W
+#EXTINF:0 tvg-id="Telekom Sport 18 HD" tvg-logo="http://tv.team/images/chIcons/1892.png" tvg-rec="0", Telekom Sport 18 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1892/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOmppdFE_NPO7G-ieLUVn7hHVM5eAafajPSvImRBlE2p
+#EXTINF:0 tvg-id="Telekom Sport 19 HD" tvg-logo="http://tv.team/images/chIcons/1893.png" tvg-rec="0", Telekom Sport 19 HD
+#EXTGRP:9. Deutschland
+http://5.troya.tv:34000/ch1893/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEwvpHwEPejdzy9TlWc9rUtdKkYxKZFX46VU4RFQBAfl
