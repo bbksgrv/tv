@@ -83,3 +83,214 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0 group-title="TR" ,TV 8.5
 https://cdn12.alfastreamtv.com/tv85.m3u8?tkn=mMP9aeIFNqWIGiuRHcFBeQ&tms=1675380411&hst=www.canliradyotv.com&ip=212.47.142.24
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Страна
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/107/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/150/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/529/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +2
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6012/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +3 (Омск)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15432/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +4
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6023/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Алтай-Дианэт)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15289/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +8
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6052/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/141/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/144/index.m3u8
+#EXTINF:0 tvg-rec="7",Viasat Sport
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/160/index.m3u8
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/870/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2145/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/5050/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10033/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккейный HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10039/index.m3u8
+#EXTINF:0 tvg-rec="7",Спортивный HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10057/index.m3u8
+#EXTINF:0 tvg-rec="7",Футбольный HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10058/index.m3u8
+#EXTINF:0 tvg-rec="0",Живи Активно HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15143/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Ukraine HD orig
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15183/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Ukraine Plus HD orig
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15184/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +2 (Уфа)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15307/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Липецк)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15314/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +7 (Владивосток)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15335/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Томск)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15387/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Белгород)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15409/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Элиста)
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15448/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Страна HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19219/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Боец HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19221/index.m3u8
+#EXTINF:0 tvg-rec="0",MMA-TV.com HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19243/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19244/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19245/index.m3u8
+#EXTINF:0 tvg-rec="0",Удар HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19246/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19396/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta 1 Qazaqstan HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20064/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta 2 Qazaqstan HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20065/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports Moldova HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20074/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/206/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/211/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/212/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/215/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/220/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/222/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/225/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/234/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/996/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Ukraine HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/272/index.m3u8
+#EXTINF:0 tvg-rec="7",Удар
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2000/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2005/index.m3u8
+#EXTINF:0 tvg-rec="7",Viasat Sport HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2146/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс HD
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/6369/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Игра HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10014/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10015/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10016/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10020/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Премьер HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10021/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 HD 50
+#EXTGRP:HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10027/index.m3u8
+
