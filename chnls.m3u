@@ -81,6 +81,78 @@ https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="RU" ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="UK: BT SPORT 1 HD 50fps" tvg-logo="http://tv.team/images/chIcons/2207.png" tvg-rec="0", UK: BT SPORT 1 HD 50fps
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2207/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKHbZMSjxWYhbO2Cwr4N4rXViGdMqxLKoJOeStf1aXMH4
+#EXTINF:0 tvg-id="UK: BT Sport 1 HD" tvg-logo="http://tv.team/images/chIcons/236.png" tvg-rec="3", UK: BT Sport 1 HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch236/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKCRB_kTORXQnzDzXkDGRVyX2d36RM1OdEaU4rifnka-d
+#EXTINF:0 tvg-id="UK: BT SPORT 2 HD 50fps" tvg-logo="http://tv.team/images/chIcons/2208.png" tvg-rec="0", UK: BT SPORT 2 HD 50fps
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2208/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDODQE_bi9iHYoitQ1feBZpvjuIQ6bXC2w6UczlF4ZF7
+#EXTINF:0 tvg-id="UK: BT Sport 2 HD" tvg-logo="http://tv.team/images/chIcons/334.png" tvg-rec="3", UK: BT Sport 2 HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch334/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDkpfAhUgp3i-PwoUu3Egkl_myeev0l8_bOijZpcLurM
+#EXTINF:0 tvg-id="UK: BT SPORT 3 HD 50fps" tvg-logo="http://tv.team/images/chIcons/2209.png" tvg-rec="0", UK: BT SPORT 3 HD 50fps
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2209/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKMGRtlN0sEJsCEdxG0f2ilZGZla0C08v2Q4Aa7EggdUZ
+#EXTINF:0 tvg-id="UK: BT Sport 3 HD" tvg-logo="http://tv.team/images/chIcons/233.png" tvg-rec="3", UK: BT Sport 3 HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch233/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNMCyrzTTDxBYEs5xM0kVanwJb4oPpLTVsmZzHpj0hM3
+#EXTINF:0 tvg-id="UK: BT SPORT 4 HD 50fps" tvg-logo="http://tv.team/images/chIcons/2210.png" tvg-rec="0", UK: BT SPORT 4 HD 50fps
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2210/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJDyEGEnuscfTrU9Uj6yIcwt7q9rBflbJVl0xL16SaxH
+#EXTINF:0 tvg-id="UK: BT Sport 4 HD" tvg-logo="http://tv.team/images/chIcons/2002.png" tvg-rec="3", UK: BT Sport 4 HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2002/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKK_ftnOHEwcNmlENT3k1XbqSE8qaqGXMJIrLTm8MB_hB
+#EXTINF:0 tvg-id="UK: BT Sport 5 (Event Only)" tvg-logo="http://tv.team/images/chIcons/2081.png" tvg-rec="0", UK: BT Sport 5 (Event Only)
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2081/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKAzFOQaTsGCfUm7nxQgFizgb2WKuio8Sm2WSxSSfR7nd
+#EXTINF:0 tvg-id="UK: BT Sport 6 (Event Only)" tvg-logo="http://tv.team/images/chIcons/2082.png" tvg-rec="0", UK: BT Sport 6 (Event Only)
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2082/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKH_jk9P2cnGc7G8SAWWg1d9cDoTzpWcjDJd3lVfd74JO
+#EXTINF:0 tvg-id="UK: BT Sport 7 (Event Only)" tvg-logo="http://tv.team/images/chIcons/2083.png" tvg-rec="0", UK: BT Sport 7 (Event Only)
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2083/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNyf2MJ8bhuQOHyzXpSA4c81MFyMzpPgcL08CpyOMWw9
+#EXTINF:0 tvg-id="UK: BT Sport 8 (Event Only)" tvg-logo="http://tv.team/images/chIcons/2084.png" tvg-rec="0", UK: BT Sport 8 (Event Only)
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2084/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKIFkIZluieZAgJmmPe0QvE5vVEurM8M6t878FGY5KdDK
+#EXTINF:0 tvg-id="UK: BT Sport 9 (Event Only)" tvg-logo="http://tv.team/images/chIcons/2085.png" tvg-rec="0", UK: BT Sport 9 (Event Only)
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2085/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKNewXXlkzFaDyFrtCyHltuOHedDfgJ0_4l33d558gmr6
+#EXTINF:0 tvg-id="UK: Sky Sports Premier League HD" tvg-logo="http://tv.team/images/chIcons/1554.png" tvg-rec="3", UK: Sky Sports Premier League HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch1554/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKF_J5iq8fnlXk0Bb4F-gq_IfT0WSmz4TnVnQh6JaJqQM
+#EXTINF:0 tvg-id="UK: Sky Sports News HD" tvg-logo="http://tv.team/images/chIcons/1061.png" tvg-rec="3", UK: Sky Sports News HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch1061/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKKlyAHPvT6xq7vyV2ZSy9CcaYTmPFmragOblVAu_jva-
+#EXTINF:0 tvg-id="UK: Sky Sports Football HD" tvg-logo="http://tv.team/images/chIcons/314.png" tvg-rec="3", UK: Sky Sports Football HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch314/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKBBLdeKtWc6bv8-duTdTYwya3-aWi1PEpUxZN1Vk86dY
+#EXTINF:0 tvg-id="UK: Sky Sports Mix HD" tvg-logo="http://tv.team/images/chIcons/234.png" tvg-rec="3", UK: Sky Sports Mix HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch234/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKLxtEIMiCzs1y5jX_ubeipjmIJyXwgAGDIf_z0Lt32Ks
+#EXTINF:0 tvg-id="UK: Sky Sports Cricket HD" tvg-logo="http://tv.team/images/chIcons/235.png" tvg-rec="3", UK: Sky Sports Cricket HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch235/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKO-71hc5wgJrbOhjm8Q-TXVILbgSlaiLSVhHXHFyv5N3
+#EXTINF:0 tvg-id="UK: Sky Sports Main Event HD" tvg-logo="http://tv.team/images/chIcons/335.png" tvg-rec="3", UK: Sky Sports Main Event HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch335/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPpqvmxUFnTQrRrunqUznOnwimAy1dcPuEngrU8Pj3gb
+#EXTINF:0 tvg-id="UK: Sky Sports Golf HD" tvg-logo="http://tv.team/images/chIcons/306.png" tvg-rec="3", UK: Sky Sports Golf HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch306/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKDiZ0Wk10wt7qwnMHLHaWU7FPFyi8NJa0cKXrE9OOQVu
+#EXTINF:0 tvg-id="UK: Sky Sports Racing HD" tvg-logo="http://tv.team/images/chIcons/1100.png" tvg-rec="3", UK: Sky Sports Racing HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch1100/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKJO3P5XKczimILfj8ZkL354OdvJ8FOJa2YYjTcMxaoRF
+#EXTINF:0 tvg-id="UK: Sky Sports Action HD" tvg-logo="http://tv.team/images/chIcons/2105.png" tvg-rec="3", UK: Sky Sports Action HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch2105/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKPrPmebIJZkk6PAgk2fM7t_Fmp9x6SUU9owenlU1UefY
+#EXTINF:0 tvg-id="UK: Sky Sports Arena HD" tvg-logo="http://tv.team/images/chIcons/74.png" tvg-rec="3", UK: Sky Sports Arena HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch074/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKP5G-hj3k8X8VkvjV6BxaUQbBmAr9Z-DyI2qH_iYJkiv
+#EXTINF:0 tvg-id="UK: Sky Sports F1 HD" tvg-logo="http://tv.team/images/chIcons/513.png" tvg-rec="3", UK: Sky Sports F1 HD
+#EXTGRP:8. United Kingdom
+http://5.troya.tv:34000/ch513/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKEZCnSNhPjBIf-pJ0cRVn9alScAswknt6qvL6snPMhr_
 #EXTINF:0 tvg-id="Auto Motor Sport HD" tvg-logo="http://tv.team/images/chIcons/273.png" tvg-rec="3", Auto Motor Sport HD
 #EXTGRP:9. Deutschland
 http://5.troya.tv:34000/ch273/mono.m3u8?token=bbksgrv.9_XzjaKEOirL28aRfcleKOlkS2qKdeKMe63nJOCEPer00TDBi83PGxl3ohBNCh3S
