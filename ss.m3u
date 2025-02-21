@@ -7,4 +7,5 @@ https://str.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=8e4e9e867c0761ef6eb2
 https://str.yodacdn.net/real/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
 #EXTINF:0 group-title="AZƏRBAYCAN" ,Xəzər TV
 https://str.yodacdn.net/xazar/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-
+#EXTINF:0 group-title="TÜRK" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" tvg-logo-small="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
