@@ -1,14 +1,13 @@
 #EXTM3U
 #EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1530.png" ,ATV
-https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="AZƏRBAYCAN" ,AzTV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1531.png" ,AzTV
 https://str.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="AZƏRBAYCAN" ,Real TV
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1543.png" ,Real TV
 https://str.yodacdn.net/real/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="AZƏRBAYCAN" ,Xəzər TV
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1539.png" ,Xəzər TV
 https://str.yodacdn.net/xazar/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="TÜRK" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" tvg-logo-small="https://www.trtbelgesel.com.tr/images/logo.svg" ,TRT Belgesel
+#EXTINF:0 group-title="TÜRK" tvg-logo="https://tv.team/images/chIcons/1412.png" tvg-logo-small="https://tv.team/images/chIcons/1412.png" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="RUS" tvg-logo="https://tv.team/images/chIcons/2453.png" tvg-logo-small="https://tv.team/images/chIcons/2453.png" ,НТВ
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
-
