@@ -1,13 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="RU" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru" ,НТВ Право
-https://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png" ,НТВ Сериал
-https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9D%D0%A2%D0%92_%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%282017%29.svg/revision/latest?cb=20180518165310&path-prefix=ru" ,НТВ Стиль
-https://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
-#EXTINF:-1 group-title="RU" tvg-logo="https://brandrealism.ru/images/logo-ntv-hit.png" ,НТВ хит
-https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1 group-title="RU" ,ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0 group-title="AZƏRBAYCAN" ,ATV
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
+#EXTINF:0 group-title="AZƏRBAYCAN" ,AzTV
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
+#EXTINF:0 group-title="AZƏRBAYCAN" ,Real TV
+https://str.yodacdn.net/real/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
+#EXTINF:0 group-title="AZƏRBAYCAN" ,Xəzər TV
+https://str.yodacdn.net/xazar/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
+
