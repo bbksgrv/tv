@@ -1,18 +1,33 @@
 #EXTM3U
 #EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1530.png" ,ATV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1541.png" ,ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1538.png" , Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+
 #EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1531.png" ,AzTV
 https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1543.png" ,Real TV
-https://str.yodacdn.net/real/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1539.png" ,Xəzər TV
-https://str.yodacdn.net/xazar/index.m3u8?token=8e4e9e867c0761ef6eb212cb993c7de2bd3c2cba-c1a1db17b2156e5d6185e47b3088358b-1740171785-1740160985
-#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1534.png" tvg-logo-small="https://tv.team/images/chIcons/1534.png" ,CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1536.png" tvg-logo-small="https://tv.team/images/chIcons/1536.png" ,İdman TV
-https://str.yodacdn.net/idman/index.m3u8
-#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1537.png" tvg-logo-small="https://tv.team/images/chIcons/1537.png" ,Mədəniyyət TV
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1537.png" ,Mədəniyyət TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1539.png" ,Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1534.png" ,CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1536.png" ,İdman TV
+https://str.yodacdn.net/idman/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:0 group-title="TÜRK" tvg-logo="https://tv.team/images/chIcons/1412.png" tvg-logo-small="https://tv.team/images/chIcons/1412.png" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -24,4 +39,9 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0 group-title="TÜRK" tvg-logo="https://tv.team/images/chIcons/1353.png" tvg-logo-small="https://tv.team/images/chIcons/1353.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:0 group-title="TÜRK" tvg-logo="https://tv.team/images/chIcons/1350.png", National Geographic HD
+http://185.32.44.154/NationalGeographicHD/index.m3u8
+
+
+
 
