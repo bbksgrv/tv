@@ -514,21 +514,29 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6822/index.m3u8
 #EXTINF:0 tvg-rec="3", tvg-logo="http://tv.team/images/chIcons/1448.png" , beIN Sports 4 TR (Yedek)
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6823/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1449.png", beIN Sports Max 1 FHD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19062/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 HD
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1449.png",beIN Sports Max 1 HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19065/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1450.png",beIN Sports Max 2 FHD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19063/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1450.png",beIN Sports Max 2 HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19066/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Haber HD
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1351.png",beIN Sports Haber HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19064/index.m3u8
+
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/2481.png" , Eurosport 1 TR HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6829/index.m3u8
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/2482.png" , Eurosport 2 TR HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6830/index.m3u8
+
 #EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1451.png" , Tivibu Spor 1 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19074/index.m3u8
@@ -538,30 +546,22 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19075/index.m3u8
 #EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1453.png" , Tivibu Spor 3 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19076/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-rec="0",TRT Spor TR
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1416.png" ,TRT Spor TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19067/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1416.png" ,TRT Spor FHD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19068/index.m3u8
-#EXTINF:0 tvg-rec="0",A Spor HD TR
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1354.png" ,A Spor HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19069/index.m3u8
-#EXTINF:0 tvg-rec="0",S Sport FHD TR
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1397.png" ,S Sport FHD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19070/index.m3u8
-#EXTINF:0 tvg-rec="0",S Sport 2 HD TR
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1398.png" ,S Sport 2 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19071/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor HD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19072/index.m3u8
-#EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1408.png" ,Spor Smart 2 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19073/index.m3u8
 
