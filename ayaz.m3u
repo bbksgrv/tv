@@ -557,7 +557,39 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19071/index.m3u8
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19073/index.m3u8
 
-
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20065/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD Baltic
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20081/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31754/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31755/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31756/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31757/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2399/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
 #EXTGRP:спорт
@@ -1248,15 +1280,7 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20061/index.m3u8
 #EXTINF:0 tvg-rec="0",Q League HD KZ
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20062/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20065/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Moldova HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20074/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD Baltic
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20081/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Fint Ga 1
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20091/index.m3u8
@@ -1374,18 +1398,7 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31682/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV MMA TIME HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31710/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31754/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31755/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31756/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31757/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sports 2 UHD UK
 #EXTGRP:4K
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31468/index.m3u8
@@ -4134,15 +4147,7 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/920/index.m3u8
 #EXTINF:0 tvg-rec="3",DocuBox HD
 #EXTGRP:HD
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/968/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
-#EXTGRP:HD
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/270/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
-#EXTGRP:HD
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/271/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:HD
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/272/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Удар FHD
 #EXTGRP:HD
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2000/index.m3u8
@@ -4248,9 +4253,6 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2394/index.m3u8
 #EXTINF:0 tvg-rec="3",Quest Red UK
 #EXTGRP:HD
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2396/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
-#EXTGRP:HD
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2399/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятница! HD
 #EXTGRP:HD
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/5031/index.m3u8
