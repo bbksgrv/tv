@@ -557,37 +557,37 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19071/index.m3u8
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19073/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1993.png" ,Setanta Sports 1 FHD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20065/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Moldova HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20074/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD Baltic
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20081/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31754/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31755/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31756/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31757/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/270/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTINF:0 tvg-rec="3",tvg-logo="http://tv.team/images/chIcons/1993.png" ,Setanta Sports 1 HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/271/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTINF:0 tvg-rec="3",tvg-logo="http://tv.team/images/chIcons/477.png" ,Setanta Sports 2 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/270/index.m3u8
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/1296.png" ,Setanta Moldova HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",tvg-logo="http://tv.team/images/chIcons/2034.png",Setanta Sports 1 HD Baltic
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/20081/index.m3u8
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/146.png" ,Setanta Sports UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31754/index.m3u8
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/146.png" ,Setanta Sports HD UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31755/index.m3u8
+#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/333.png" ,Setanta Sports+ UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31756/index.m3u8
+#EXTINF:0 tvg-rec="0", tvg-logo="hhttp://tv.team/images/chIcons/333.png" ,Setanta Sports+ HD UA
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31757/index.m3u8
+#EXTINF:0 tvg-rec="3", tvg-logo="http://tv.team/images/chIcons/146.png" ,Setanta Sports FHD UA
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/272/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTINF:0 tvg-rec="3",tvg-logo="http://tv.team/images/chIcons/639.png" ,Setanta Qazaqstan HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/2399/index.m3u8
 
