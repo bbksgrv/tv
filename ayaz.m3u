@@ -529,14 +529,6 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19066/index.m3u8
 #EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1351.png",beIN Sports Haber HD
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19064/index.m3u8
-
-#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/2481.png" , Eurosport 1 TR HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6829/index.m3u8
-#EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/2482.png" , Eurosport 2 TR HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6830/index.m3u8
-
 #EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1451.png" , Tivibu Spor 1 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19074/index.m3u8
