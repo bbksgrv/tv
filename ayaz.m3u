@@ -514,7 +514,21 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6822/index.m3u8
 #EXTINF:0 tvg-rec="3", tvg-logo="http://tv.team/images/chIcons/1448.png" , beIN Sports 4 TR (Yedek)
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6823/index.m3u8
-
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19062/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19065/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19063/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19066/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Haber HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19064/index.m3u8
 #EXTINF:0 tvg-rec="0", tvg-logo="http://tv.team/images/chIcons/1451.png" , Tivibu Spor 1 HD TR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19074/index.m3u8
@@ -525,6 +539,31 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19075/index.m3u8
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19076/index.m3u8
 
+
+
+
+
+#EXTINF:0 tvg-rec="0",TRT Spor TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19067/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19068/index.m3u8
+#EXTINF:0 tvg-rec="0",A Spor HD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19069/index.m3u8
+#EXTINF:0 tvg-rec="0",S Sport FHD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19070/index.m3u8
+#EXTINF:0 tvg-rec="0",S Sport 2 HD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19071/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor HD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19072/index.m3u8
+#EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19073/index.m3u8
 
 
 
@@ -1050,42 +1089,7 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19061/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19062/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19063/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Haber HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19064/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19065/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19066/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19067/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19068/index.m3u8
-#EXTINF:0 tvg-rec="0",A Spor HD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19069/index.m3u8
-#EXTINF:0 tvg-rec="0",S Sport FHD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19070/index.m3u8
-#EXTINF:0 tvg-rec="0",S Sport 2 HD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19071/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor HD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19072/index.m3u8
-#EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
-#EXTGRP:спорт
-http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/19073/index.m3u8
+
 
 #EXTINF:0 tvg-rec="0",Sky Sport F1 HD IT
 #EXTGRP:спорт
