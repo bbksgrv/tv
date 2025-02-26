@@ -488,6 +488,15 @@ http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31277/index.m3u8
 #EXTINF:0 tvg-rec="0",ŞÖMİNE PLUS
 #EXTGRP:türk
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/31278/index.m3u8
+
+#EXTINF:0 tvg-rec="3", tvg-logo="http://tv.team/images/chIcons/1424.png" , beIN Sports 1 HD
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6781/index.m3u8
+#EXTINF:0 tvg-rec="3", tvg-logo="http://tv.team/images/chIcons/1424.png" , beIN Sports 1 (Yedek)
+#EXTGRP:спорт
+http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/6817/index.m3u8
+
+
 #EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
 #EXTGRP:спорт
 http://p4hwnwvo.klaipedalt.org/iptv/976ZPRFZSWTSB2CEWM6P44X7/9026/index.m3u8
