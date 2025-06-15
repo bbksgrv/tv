@@ -32,6 +32,10 @@ http://fh8myysi.dienalt.org/iptv/QKSUXZE9Y5D9GU/2199/index.m3u8
 #EXTINF:0 tvg-rec="3",Azad TV
 #EXTGRP:Азербайджан | Azərbaycan
 http://fh8myysi.dienalt.org/iptv/QKSUXZE9Y5D9GU/2200/index.m3u8
+
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1530.png" ,ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+
 #EXTINF:0 tvg-rec="3",AzTV
 #EXTGRP:Азербайджан | Azərbaycan
 http://fh8myysi.dienalt.org/iptv/QKSUXZE9Y5D9GU/966/index.m3u8
