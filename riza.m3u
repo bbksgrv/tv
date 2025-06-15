@@ -44,6 +44,8 @@ http://3vupm8ja.siauliairsavlt.com/iptv/XXLTMH5LHR735M8Z2KPLRUQA/2199/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV AZ
 #EXTGRP:azərbaycan
 http://3vupm8ja.siauliairsavlt.com/iptv/XXLTMH5LHR735M8Z2KPLRUQA/2200/index.m3u8
+#EXTINF:0 group-title="AZƏRBAYCAN" tvg-logo="https://tv.team/images/chIcons/1530.png" ,ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:0 tvg-rec="3",Kanal 7 HD
 #EXTGRP:türk
 http://3vupm8ja.siauliairsavlt.com/iptv/XXLTMH5LHR735M8Z2KPLRUQA/2257/index.m3u8
